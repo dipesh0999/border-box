@@ -9,9 +9,7 @@
 }
 .another{
     width: 100%;
-    height: 107%;   
-    justify-content:start;
-    align-items: center ;
+    height: 107%;
 }
 .redbox{
     color: lightgreen;
