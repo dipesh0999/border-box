@@ -1,0 +1,95 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.main{
+    width: 100%;
+    height: 107%;
+
+}
+.another{
+    width: 100%;
+    height: 107%;   
+    justify-content:start;
+    align-items: center ;
+}
+.redbox{
+    color: lightgreen;
+    background-color: red;
+    box-sizing: border-box;
+    width: 500px;
+    height: 200px;
+    margin: 20px;
+    padding: 10px;
+    border: 3px solid black;
+}
+.greenbox{
+    color: yellow;
+    background-color: green;
+    box-sizing: border-box;
+    width: 500px;
+    height: 200px;
+    margin: 20px;
+    padding: 20px;
+    border: 3px solid black;
+}
+.yellowbox{
+    color: blue;
+    background-color: yellow;
+    box-sizing: border-box;
+    width: 500px;
+    height: 200px;
+    margin: 20px;
+    padding: 30px;
+    border: 3px solid black;
+}
+.bluebox{
+    color: yellow;
+    background-color: blue;
+    box-sizing: border-box;
+    width: 500px;
+    height: 200px;
+    margin: 20px;
+    padding: 40px;
+    border: 3px solid black;    
+}
+.orange{
+    color: white;
+    background-color: orange;
+    box-sizing: border-box;
+    width: 500px;
+    height: 200px;
+    margin: 20px;
+    padding: 50px;
+    border: 3px solid black;
+}
+.grey{
+    color: black;
+    background-color: grey;
+    box-sizing: border-box;
+    width: 500px;
+    height: 200px;
+    margin: 20px;
+    padding: 60px;
+    border: 3px solid black;
+}
+.white{
+    color: black;
+    background-color: white;
+    box-sizing: border-box;
+    width: 500px;
+    height: 200px;
+    margin: 20px;
+    padding: 70px;
+    border: 3px solid black;
+}
+.black{
+    color: white;
+    background-color: black;
+    box-sizing: border-box;
+    width: 500px;
+    height: 200px;
+    margin: 20px;
+    padding: 80px;
+    border: 3px solid red;
+}
