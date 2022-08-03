@@ -2,7 +2,6 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    border: 3px solid black;
 }
 .redbox{
     color: lightgreen;
@@ -11,6 +10,7 @@
     height: 200px;
     margin: 20px;
     padding: 10px;
+    border: 3px solid black;
     
 }
 .greenbox{
@@ -19,7 +19,8 @@
     width: 500px;
     height: 200px;
     margin: 20px;
-    padding: 20px
+    padding: 20px;
+    border: 3px solid black;
 }
 .yellowbox{
     color: blue;
@@ -28,6 +29,7 @@
     height: 200px;
     margin: 20px;
     padding: 30px;
+    border: 3px solid black;
 }
 .bluebox{
     color: yellow;
@@ -35,7 +37,8 @@
     width: 500px;
     height: 200px;
     margin: 20px;
-    padding: 40px;    
+    padding: 40px;
+    border: 3px solid black;
 }
 .orange{
     color: white;
@@ -44,11 +47,11 @@
     height: 200px;
     margin: 20px;
     padding: 50px;
+    border: 3px solid black;
 }
 .grey{
     color: black;
-    background-color: grey;
-    box-sizing: border-box;
+    background-color: grey;   
     width: 500px;
     height: 200px;
     margin: 20px;
@@ -62,6 +65,7 @@
     height: 200px;
     margin: 20px;
     padding: 70px;
+    border: 3px solid black;
 }
 .black{
     color: white;
